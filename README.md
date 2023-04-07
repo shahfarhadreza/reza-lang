@@ -1,6 +1,7 @@
 # Reza Programming Language 
 A High-Level General Purpose Programming Language.
 
+```
 function main() {
 	  var emotions = ["happy", "excited", "bored", "sad"]
 
@@ -8,4 +9,4 @@ function main() {
 		    println("He gets sad too")
     }
 }
-
+```
